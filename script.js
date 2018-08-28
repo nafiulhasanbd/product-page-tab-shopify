@@ -1,4 +1,4 @@
-Here is the Script for Activation add this Script to theme.liquid file
+// Here is the Script for Activation add this Script to theme.liquid file
 <script>
   $('ul.tabs li').click(function(){
      var tab_id = $(this).attr('data-tab');
