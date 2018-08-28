@@ -1,0 +1,42 @@
+
+You can customize the css as you want
+
+
+.product-tabs {
+  padding: 0px 20px;
+}
+
+ul.tabs li {
+    background: none;
+    color: gray;
+    display: inline-block;
+    padding: 8px 0px;
+    cursor: pointer;
+    transition: .3s;
+    width: 30% !important;
+    text-align: center;
+    max-width: 150px;
+    font-weight: bold;
+}
+ul.tabs li.current{
+  border-bottom: 2px solid gray;
+  color:#000;
+}
+
+.tab-content {
+    display: none;
+    /* background: #ededed; */
+    padding: 15px;
+    border: 1px solid #eee;
+}
+
+.tab-content.current{
+  display: inherit;
+}
+ul.tabs li {
+    height: auto !important;
+}
+li.tab-link:hover {
+    border-bottom: 2px solid gray;
+  color:#000;
+}
