@@ -1,5 +1,5 @@
-# product-page-tab-shopify
-This code will work to make the tabs in product page
+# product-page-tabs-shopify
+This code will work to make the tabs in product page. It will work with any theme.
 
 
 I have added 3 Files. 
