@@ -1,4 +1,4 @@
-# product-page-tabs-shopify
+# Shopify Product page Tabs
 This code will work to make the tabs in product page. It will work with any theme.
 
 
